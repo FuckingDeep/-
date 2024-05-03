@@ -1,0 +1,32 @@
+﻿body {
+    background-color: black;
+}
+#naming { 
+    font-size: 60px;
+    color: red;
+    text-align: center;
+}
+button {
+    font-size: 17px;
+    padding: 10px;
+    display: block;
+    margin:0 auto;
+    background-color: red;
+}
+#parent {
+    margin:auto;
+    text-align: center;
+}
+.frase {    
+    padding: 10px;
+    color:blue
+}
+#x  {
+    position:fixed;
+    bottom:0;
+    width:200px;
+}
+#bottom {
+    text-align:center;
+    color: rgb(31, 31, 32);
+}
